@@ -2,6 +2,15 @@
 
 Arsonbrush is a custom-made smart electric toothbrush, reusing a DC motor from a dead Oral-B toothbrush. 
 
+## Why did I make this?
+
+I was bored of $100+ dumb electric toothbrushes that have under-specced components to make them die faster.
+For a bit of context, two well taken-care-of Oral-B toothbrushes stopped working, both with "exploded" resistors.
+And also, ironically, whilst making this, ANOTHER ONE died on me.
+
+I also noticed that there wasn't any open-source/DIY option.
+So, may this toothbrush be the stepping stone for open-source electric toothbrushes in the future.
+
 ## Features!
 
 - **Waterproof Charging**: Pogo pins!
