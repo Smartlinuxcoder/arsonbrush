@@ -46,6 +46,7 @@ Arsonbrush is a custom-made smart electric toothbrush, reusing a DC motor from a
 
 
 ## Bill of Materials
+### This is in addition to [the toothbrush PCBA BOM](pcb/bom-toothbrush.csv)
 
 | Component | Quantity | Description | Supplier | Unit Cost | Total Cost (+shipping) | Image |
 |-----------|----------|-------------|----------|-----------|------------------------|-------|
@@ -69,9 +70,16 @@ arsonbrush/
 ├── code/arsonbrush/       # Firmware
 │   ├── Core/Src           # Firmware source code
 ├── pcb/                   # EasyEDA PCB
+│   ├── arsonBrush.eprj    # Complete project
+│   ├── bom-toothbrush.csv # toothbrush PCBA BOM
+│   ├── gerber-base.zip    # Base station gerbers
+│   ├── gerber-toothbrush.zip # Toothbrush gerbers
+│   ├── schematic-base.pdf # Base station schematic
+│   └── schematic-toothbrush.pdf # Toothbrush schematic
 ├── datasheets/            # Component datasheets
 └── README.md              # This file!
 ```
+
 ## Building the Toothbrush firmware
 
 ### Prerequisites
