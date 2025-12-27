@@ -11,6 +11,7 @@ And also, ironically, whilst making this, ANOTHER ONE died on me.
 I also noticed that there wasn't any open-source/DIY option.
 So, may this toothbrush be the stepping stone for open-source electric toothbrushes in the future.
 
+---
 ## Features!
 
 - **Waterproof Charging**: Pogo pins!
