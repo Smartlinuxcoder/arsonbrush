@@ -36,7 +36,7 @@ Arsonbrush is a custom-made smart electric toothbrush, reusing a DC motor from a
 ![Case Back](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAxNjYsInB1ciI6ImJsb2JfaWQifX0=--bb72df95aa57114fcad1afd3d63579b8b216cc2b/Screenshot%20From%202025-12-26%2021-58-58.png)
 
 ## Toothbrush PCB!
-![Toothbrush Schematic](pcb/schematic.png)
+![Toothbrush Schematic](pcb/schematic-toothbrush.png)
 ![alt text](images/image-5.png)
 ## Base station PCB!
 ![Base Station Schematic](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAxNjksInB1ciI6ImJsb2JfaWQifX0=--c5c75e834cf81e9b0771032d0e5aa0b94c620854/image.png)
