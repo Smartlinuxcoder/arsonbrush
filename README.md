@@ -67,7 +67,7 @@ So, may this toothbrush be the stepping stone for open-source electric toothbrus
 | Copper sheet 0.8mm 50x50cm | 1 | Motor EMI protection plane | [Aliexpress](https://it.aliexpress.com/item/1005006915598911.html) | 3.69 EUR | 3.69 EUR | ![alt text](images/image-2.png)|
 | 21700 battery | 1 | Toothbrush battery | [nkon.nl](https://www.nkon.nl/en/bak-n21700ch-58e-5750mah-11-2a.html) | 3.75 EUR | 9.14 EUR |![alt text](images/image-3.png) |
 
-**Total Project Cost:** 97.08 EUR
+**Total Project Cost:** 90.56 EUR
 
 **Notes:**
 - All costs are in EUR
