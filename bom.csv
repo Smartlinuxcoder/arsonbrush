@@ -1,5 +1,5 @@
 Component,Quantity,Description,Supplier,Unit Cost,Total Cost (+shipping),Link
-Toothbrush PCB !!SEE bom-toothbrush.csv!!,5 (2 PCBA),toothbrush handle mainboard,JLCPCB,Not applicable,70 EUR,
+Toothbrush PCB !!SEE bom-toothbrush.csv!!,5 (2 PCBA),toothbrush handle mainboard,JLCPCB,Not applicable,60 EUR,
 Base board,5,Toothbrush base PCB,JLCPCB,1 EUR,5 EUR,
 2A Pogo pins connector pair,1 pair,Waterproof connection,Aliexpress,5.89 EUR,5.89 EUR,https://it.aliexpress.com/item/1005006525401310.html
 Tenstar ESP32C3 supermini,1,Base MCU,Aliexpress,3.36 EUR,3.36 EUR,https://it.aliexpress.com/item/1005009897797706.html

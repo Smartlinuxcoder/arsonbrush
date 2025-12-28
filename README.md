@@ -60,7 +60,7 @@ So, may this toothbrush be the stepping stone for open-source electric toothbrus
 
 | Component | Quantity | Description | Supplier | Unit Cost | Total Cost (+shipping) | Image |
 |-----------|----------|-------------|----------|-----------|------------------------|-------|
-| Toothbrush PCB | 5, 2 PCBA |toothbrush handle mainboard | JLCPCB | Not applicable | 70 EUR |![alt text](images/image-5.png) |
+| Toothbrush PCB | 5, 2 PCBA |toothbrush handle mainboard | JLCPCB | Not applicable | 60 EUR |![alt text](images/image-5.png) |
 | Base board | 5 | Toothbrush base PCB | JLCPCB | 1 EUR | 5 EUR | ![alt text](images/image-4.png)|
 | 2A Pogo pins connector pair | 1 pair | Waterproof connection | [Aliexpress](https://it.aliexpress.com/item/1005006525401310.html) | 5.89 EUR | 5.89 EUR |![alt text](images/image.png) |
 | Tenstar ESP32C3 supermini | 1 | Base MCU | [Aliexpress](https://it.aliexpress.com/item/1005009897797706.html) | 3.36 EUR | 3.36 EUR |![alt text](images/image-1.png) |
